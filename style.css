@@ -1,0 +1,52 @@
+	body {
+
+		background-image: linear-gradient(magenta, cyan);
+		font-family: cursive;
+}
+	h1 {
+
+	text-align: center;
+	text-shadow: 0 0 0.2em #1E90FF, 0 0 0.2em #87CEEB, 0 0 0.2em #8B2252;
+}
+	h2 {
+		text-shadow: 0 0 0.2em #1E90FF, 0 0 0.2em #87CEEB, 0 0 0.2em #8B2252;
+	}
+	ul{
+		display: inline-block;
+}
+	#eu {
+    float: left;
+    border-radius: 100px;
+    padding: 10px;
+    margin-top: 10px;
+}
+	#bird {
+
+	list-style-image: url("bird.png");
+}
+	#dog {
+
+	list-style-image: url("dog.png");
+}
+	#star {
+
+	list-style-image: url("star.png");
+}
+	#libra {
+
+	list-style-image: url("libra.png");
+}
+	#roller {
+
+	list-style-image: url("roller.png");
+}
+	#jogo {
+
+	list-style-image: url("jogo.png");
+}
+	#doce {
+		color: deeppink;
+}
+	#amor {
+		color: red;
+	}
